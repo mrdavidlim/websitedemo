@@ -1,0 +1,71 @@
+h2 {
+    color: royalblue;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+}
+
+.container {
+    background-color: rgb(205, 224, 255);
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.intro {
+    background-color: gray;
+    color: white;
+    padding: 25px;
+}
+
+#title {
+    background-color: white;
+    color: rgb(0, 89, 255);
+    padding: 15px;
+    margin: 0;
+}
+
+#soul {
+    padding-bottom: 30px;
+}
+
+#soul-img {
+    width: 20%;
+    height: auto;
+}
+
+#frozen-img {
+    width: 50%;
+    height: auto;
+}
+
+ul {
+    text-align: center;
+    list-style: inside;
+    font-size: 18px;
+}
+
+li {
+    border-bottom: 5px solid rgb(160, 160, 160);
+    border-color: darkslategray;;
+}
+
+#fun-button {
+    background-color: royalblue;
+    color: white;
+
+    width: 300px;
+    height: 75px;
+
+    border: 0;
+    border-radius: 50px;
+
+    font-size: 20px;
+}
+
+.outro {
+    background-color: lightgray;
+    padding: 20px;
+}
+
